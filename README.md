@@ -1,6 +1,6 @@
 # 🎧 Business & Professional English Listening Trainer
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-brightgreen)](https://fabio-menjivar.github.io/e-learning-listening-app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-brightgreen)](https://fabio-menjivar.github.io/professional-english-quiz-app/)
 
 This repository presents a practical **E-Learning web application** designed to sharpen **English listening comprehension for professional communication** and the global workplace. Developed as a portfolio project, it demonstrates a functional, interactive platform for self-guided language skill enhancement.
 
@@ -47,7 +47,7 @@ To run this project locally and review the code:
 3.  **Launch the application:**
     Open the `index.html` file in your web browser.
 
-Alternatively, you can access the **[Live Demo here](https://fabio-menjivar.github.io/e-learning-listening-app/)** to see the application in action.
+Alternatively, you can access the **[Live Demo here](https://fabio-menjivar.github.io/professional-english-quiz-app/)** to see the application in action.
 
 ---
 
